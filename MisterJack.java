@@ -10,7 +10,7 @@ public class MisterJack extends Player {
   //
   // Fields
   //
-  String test = "test";
+
   private String Identity;
   
   //
